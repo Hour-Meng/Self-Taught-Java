@@ -60,6 +60,13 @@ public class variable{
         boolean isSmart = false; // java use camel case
 
         System.out.println(isStudent);
+        System.out.println(isSmart);
+        
+        // String
+        String name = "Alice";
+        String city = "New York";
+        System.out.println("Hello " + name);
+        System.out.println("You are from " + city);
 
     }
 }
