@@ -1,7 +1,7 @@
 // to use the user input we need to import the Scanner class
 import java.util.Scanner;
 
-public class user_input {
+public class UserInput {
     public static void main(String[] args){
         // to create input we need to create a Scanner object
         Scanner scanner = new Scanner(System.in);

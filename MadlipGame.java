@@ -1,7 +1,7 @@
 // another mini project to get better understanding at user_input
 import java.util.Scanner;
 
-public class madlip_game {
+public class MadlipGame {
 
     public static void main(String[] args){
         System.out.println("Hello! Welcome to my Mad Libs game!");

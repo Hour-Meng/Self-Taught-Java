@@ -5,7 +5,7 @@
 */
 
 // TIPS: We can type "sout" instead of System.out.print()
-public class introduction{ // introduction is the file name
+public class Introduction{ // introduction is the file name
 
     public static void main(String[] arg){
         System.out.print("Hello world");  // unlike python, java ended with ;

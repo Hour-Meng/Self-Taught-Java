@@ -1,4 +1,4 @@
-public class printf_method {
+public class PrintfMethod {
     public static void main(String[] args){
 
         //printf() = is a method used to format output

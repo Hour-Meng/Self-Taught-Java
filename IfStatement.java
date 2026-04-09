@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class if_statement {
+public class IfStatement {
     
     public static void main(String[] args) {
         int age;

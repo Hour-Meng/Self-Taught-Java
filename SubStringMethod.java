@@ -1,4 +1,4 @@
-public class subString_method {
+public class SubStringMethod {
     public static void main(String[] args) {
 
         // substring() = a method that extracts a part of the string.

@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class triangle_calulator {
+public class TriangleCalulator {
 
      public static void main(String[] args){
         
